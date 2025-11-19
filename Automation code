@@ -13,8 +13,8 @@
 // =============================
 // WiFi & SinricPro Credentials
 // =============================
-#define WIFI_SSID     "123456789"    
-#define WIFI_PASS     "1234567890"
+#define WIFI_SSID     "VFSTR-WIFI"    
+#define WIFI_PASS     ""
 #define APP_KEY       "3348db8a-6e27-4d5b-9e2d-f0f3a4c0fd99"
 #define APP_SECRET    "8116f574-e6e9-48f9-9aac-2bc7accd95c5-60fce3d1-412f-4de9-935d-0ef4a04b96c7"
 // =============================
