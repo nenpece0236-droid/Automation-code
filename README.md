@@ -1,0 +1,1 @@
+This project aims to design and implement a low-cost, flexible, and user-friendly home automation system that allows users to control electrical appliances (like lights, fans, etc.) through two primary modes: Voice Commands and Manual Control
